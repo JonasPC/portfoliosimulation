@@ -1,0 +1,8 @@
+- Can call Simulator? (YES)
+- Can return a draw from a norm distribution (YES)
+- Can return an accum. draw from norm dists. (YES)
+- Can give the list of yearly returns (YES)
+
+- Can simulate the returns using MC (YES)
+
+- Can make a histogram of it? (Not done yet)
